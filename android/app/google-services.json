@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "450340968545",
+    "firebase_url": "https://university-management-sy-352bf-default-rtdb.firebaseio.com",
+    "project_id": "university-management-sy-352bf",
+    "storage_bucket": "university-management-sy-352bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450340968545:android:b277491f4e0c61d7d07220",
+        "android_client_info": {
+          "package_name": "com.example.rental_car_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpCU7xHaOhEp3XM9h_9mc8baa2IFbZ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450340968545:android:854c6715e5024431d07220",
+        "android_client_info": {
+          "package_name": "com.example.rental_car_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpCU7xHaOhEp3XM9h_9mc8baa2IFbZ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
